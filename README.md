@@ -1,6 +1,6 @@
 ## Kalah API Challenge for Backbase
 
-@author: Gizem Yamasan Acargil
+@author: Gizem Yamasan
 
 ### Implementation
 
